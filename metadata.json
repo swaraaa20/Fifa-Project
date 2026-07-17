@@ -1,0 +1,6 @@
+{
+  "name": "StadiumOS AI",
+  "description": "The Autonomous Multi-Agent Stadium Intelligence Platform for FIFA World Cup 2026.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
